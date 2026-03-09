@@ -1,3 +1,4 @@
+setup check completed
 # GitHub Starter Tutorial: Toolchain Setup for New Builders
 
 This tutorial only handles setup.
