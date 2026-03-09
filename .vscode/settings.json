@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "html": "html"
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000
+}

@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "mkaufman.HTMLHint",
+    "pranaygp.css-peek",
+    "eamodio.gitlens",
+    "GitHub.copilot",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense"
+  ]
+}
